@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'BeachDay';
+  src: url("@/assets/fonts/beachday/beachday.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.hover-zoom {
+  transition: transform 0.3s ease-in-out;
+  }
+
+.hover-zoom:hover {
+  transform: scale(1.1);
+}
+
+.body {
+  background-image: url("@/assets/images/HomePage/Background.jpg");
+}
+
+.font {
+  font-family: 'BeachDay', sans-serif;
+}
