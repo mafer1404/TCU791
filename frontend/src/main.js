@@ -9,6 +9,7 @@ import SectionTwo from "./components/SectionTwo.vue";
 import SectionThreePartOne from "./components/SectionThreePartOne.vue";
 import SectionThreePartTwo from "./components/SectionThreePartTwo.vue";
 import SectionFour from "./components/SectionFour.vue";
+import End from "./components/EndSection.vue";
 
 import "./assets/css/FontBody.css"
 
@@ -24,7 +25,8 @@ const router = createRouter({
     { path: "/SectionThreePartTwo", name: "SectionThreePartTwo"
       , component: SectionThreePartTwo },
     { path: "/SectionFour", name: "SectionFour"
-      , component: SectionFour }
+      , component: SectionFour },
+    { path: "/EndSection", name: "EndSection", component: End }
   ],
 });
 
