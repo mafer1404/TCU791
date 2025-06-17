@@ -92,7 +92,7 @@
         class="bounce-text multicolor-text"
         style="color: #7b79a1; margin: 0;"
       >
-        Click the gift when you're done!
+        Click on the gift when you're done!
       </h4>
     </div>
   </div>

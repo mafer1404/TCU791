@@ -28,7 +28,7 @@
           <h4
             class="bounce-text multicolor-text"
             style="color: #7b79a1; margin-top: 10px;">
-            Click the mirror when you're done!
+            Click on the mirror when you're done!
           </h4>
         </div>
       </div>

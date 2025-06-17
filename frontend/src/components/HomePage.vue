@@ -80,6 +80,25 @@
     </div>
   </div>
 
+  <div class="container my-5">
+    <div class="row border rounded shadow p-4">
+      <div class="col-md-6 text-center">
+        <p class="hover-zoom"><b>English version <br></b></p>
+        <p class="hover-zoom">
+          Go to each section. Click on the words. Listen and repeat them!
+          Do this as many times as you want!
+        </p>
+      </div>
+
+      <div class="col-md-6 text-center">
+        <p class="hover-zoom"><b>Spanish version <br></b></p>
+        <p class="hover-zoom">
+          Vaya a cada una de las secciones. Haga click en cada una de las palabras.
+          Escúchelas y repítalas. Haga esto tantas veces como guste!
+        </p>
+      </div>
+    </div>
+</div>
   <CreditsFooter />
 </template>
 
